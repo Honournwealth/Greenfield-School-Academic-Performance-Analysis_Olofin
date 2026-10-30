@@ -1,4 +1,3 @@
-# Greenfield-School-Academic-Performance-Analysis_Olofin
 # Greenfield School Results Analysis & Academic Performance Dashboard
 
 ## Project Overview
